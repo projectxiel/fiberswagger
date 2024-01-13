@@ -1,4 +1,4 @@
-package swagger
+package fiberswagger
 
 const indexTmpl string = `
 <!-- HTML for static distribution bundle build -->

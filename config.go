@@ -1,4 +1,4 @@
-package swagger
+package fiberswagger
 
 import (
 	"html/template"

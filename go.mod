@@ -1,4 +1,4 @@
-module github.com/projectxiel/go-fiber-swagger
+module github.com/projectxiel/fiberswagger
 
 go 1.16
 
